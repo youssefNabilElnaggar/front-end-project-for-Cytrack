@@ -29,8 +29,6 @@ React 18
 
 Chakra UI (for styling and layout)
 
-Redux Toolkit (for global state management)
-
 Axios (for API calls)
 
 React Router DOM
