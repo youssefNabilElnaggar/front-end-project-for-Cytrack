@@ -34,3 +34,24 @@ Axios (for API calls)
 React Router DOM
 
 @vis.gl/react-google-maps (for map visualization)
+🛠️ Setup
+
+Clone the repo
+
+git clone https://github.com/your-username/device-tracker-dashboard.git
+cd device-tracker-dashboard
+
+
+Install dependencies
+
+npm install
+
+
+Create a .env file and add your Google Maps API key:
+
+VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
+
+
+Start the development server
+
+npm run dev
